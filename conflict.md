@@ -1,1 +1,4 @@
-Segundo conflict en master
+Conflict #1
+
+
+conflict #2
